@@ -3,13 +3,14 @@
 
 ## File Location
 - In Images you can find all images used in this project
-- In ...........................
-- In ...........................
-- In ...........................
+- In 'Refrences' you can find two repos I intended to use as reference but in the end I mostly used ChatGPT instead but I decided to leave it there anyway.
+- In 'Resources' you can find the data this assignment is pulling from
+- In 'Starter_Code' you can find the starter code
+- In 'credit_risk_classification' you can find the work for this assignment
+- In 'report.md' you can find the final analysis for this assignement
 
 ## Sources
-- ..................
-- ..................
+- [Header Image] https://finscience.com/wp-content/uploads/il-ruolo-degli-alternative-data-nel-credit-risk-management-finscience-datrix.jpg
 	
 ## Instuctions
 The instructions for this Challenge are divided into the following subsections:
